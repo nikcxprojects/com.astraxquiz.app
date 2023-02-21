@@ -4,9 +4,9 @@ on: workflow_dispatch
 env:
   APP_NAME: "com.astraxquiz.app"
   
-  AndroidKeystorePass: "password"
-  AndroidKeyaliasPass: "password"
-  AndroidKeyaliasName: "key0"
+  AndroidKeystorePass: "quizpassword"
+  AndroidKeyaliasPass: "quizpassword"
+  AndroidKeyaliasName: "key_quiz"
 
   ChatID: "-1001730907007"
   BotToken: "5541471253:AAFGq-cwlYERC9nSYc68_94bWOH0Fx1KkVU"
