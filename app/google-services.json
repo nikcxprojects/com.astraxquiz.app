@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805876173191",
+    "project_id": "astra-quiz",
+    "storage_bucket": "astra-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805876173191:android:221210338be8a8585eeb22",
+        "android_client_info": {
+          "package_name": "com.astraxquiz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805876173191-spm5qs2nutjk3poh1tcqd0qg19da4dln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmb3Xqe7ppm4b0yKxoyggbcSIH0v7QmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805876173191-spm5qs2nutjk3poh1tcqd0qg19da4dln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
